@@ -157,7 +157,7 @@ def get_args():
     parser.add_argument('--sam_type', type=str,
                         default="vit_h", help="(vit_h, vit_l, vit_b)")
     parser.add_argument('--task', type=str, default='objectnav',
-                        choices=['objectnav', 'reasoning', 'simple', 'vln', 'custom'])
+                        choices=['objectnav', 'reasoning', 'simple', 'vln'])
     parser.add_argument('--reasoning_type', type=str, help='GPT4, chatGPT, vicuna7b, vicuna13b')
 
     # Mapping
@@ -219,17 +219,10 @@ def get_args():
         elif args.task == 'vln':
             args.num_eval_episodes = 57
             args.episodes_dir = 'dataset/vln/'
-        elif args.task == 'custom':
-            args.num_eval_episodes = 30
-            args.num_sem_categories = 2
-            args.episodes_dir = 'dataset/newobj/'
         else:
             raise ValueError('Unknown task!')
         args.categories_file = 'dataset/objectnav/TG_categories.json'
-        if args.task == 'custom':
-            args.max_episode_length = 500
-        else:
-            args.max_episode_length = 2000
+        args.max_episode_length = 2000
     elif args.map_id == 5:
         args.split = 'NursingRoom'
         args.num_sem_categories = 33
