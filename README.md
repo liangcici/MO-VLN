@@ -10,6 +10,7 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 <details>
 <summary>8/17/2023</summary>
+ 
  We have released [**version 1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Added **walker control interface**.
@@ -27,6 +28,7 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 <details>
 <summary>6/18/2023</summary>
+ 
  We have released [**version 1.0**](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Built on UE5.
@@ -46,6 +48,7 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 <details>
 <summary>To-Do List</summary>
+ 
 - Develop and make **more scenes**.
 - Provide **more classes of generative objects**.
 - Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
