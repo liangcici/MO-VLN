@@ -5,6 +5,50 @@ This is a PyTorch implementation of the [paper](https://arxiv.org/abs/2306.10322
 Project website: https://mligg23.github.io/MO-VLN-Site/
 
 
+### Update
+
+#### 8/17/2023
+
+ We have released **version 1.1** of the MO-VLN benchmark simulator.
+
+- Added **walker control interface**.
+- Added many different states of pedestrians, including **different gender, different skin colors, and different ages of 50 walkers with smooth walking or running movements**
+
+- **Added 1k+ instructions** to our four tasks.
+- Two **new scenes have been added**, bringing the total to five:
+  - Coffee
+  - Restaurant
+  - Nursing Room
+  - **Home scene** -- A home suite consisting of a living room, kitchen, dining room, and multiple bedrooms
+  - **Separate tables** -- Multiple tables can provide a large and efficient grasping parallel training
+- Support for **grabbing and navigation tasks**.
+
+#### 6/18/2023
+
+ We have released **version 1.0** of the MO-VLN benchmark simulator.
+
+- Built on UE5.
+- 3 scene types:
+  - Coffee -- One-to-one modeling in a Coffee
+  - Restaurant -- One-to-one modeling in a restaurant
+  - Nursing Room -- One-to-one modeling in a Nursing Room
+- Support for navigation tasks.
+- With **real light and shadow characteristics**
+- Support **129 classes** for navigation testing
+- Support instruction tasks with **four tasks**: 
+  - goal-conditioned navigation given a specific object category (e.g., "fork"); 
+  - goal-conditioned navigation given simple instructions (e.g., "Search for and move towards a tennis ball"); 
+  - step-by-step instructions following; 
+  - finding abstract objects based on high-level instruction (e.g., "I am thirsty").
+  
+#### To-Do List
+
+- Develop and make **more scenes**.
+- Provide **more classes of generative objects**.
+- Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
+- Adding **more interactive properties to objects in the environment**, such as a coffee machine that can be controlled to make coffee.
+
+
 ## Overview
 MO-VLN provides four tasks: 1) goal-conditioned navigation given a specific object category (e.g., "fork"); 2) goal-conditioned navigation given simple instructions (e.g., "Search for and move towards a tennis ball"); 3) step-by-step instruction following; 4) finding abstract object based on high-level instruction (e.g., "I am thirsty"). The earlier version of our simulator covers three high-quality scenes: cafe, restaurant, and nursing house.
 
@@ -14,7 +58,7 @@ MO-VLN provides four tasks: 1) goal-conditioned navigation given a specific obje
 
 
 ## Installing Dependencies
-- Installing the simulator following [here](https://mligg23.github.io/MO-VLN-Site/).
+- Installing the simulator following [here](https://mligg23.github.io/MO-VLN-Site/Simulation%20Environment%20API.html).
 
 - Installing [GLIP](https://github.com/microsoft/GLIP).
 
