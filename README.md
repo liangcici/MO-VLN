@@ -14,7 +14,7 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
  We have released [**version 1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Support for **grabbing and navigation tasks**.
-- Added many different states of pedestrians, including **different gender, different skin colors, and different ages of 50 pedestrians with smooth walking or running movements**
+- Added many different pedestrian states, including **50 unique pedestrians across gender, skin color, and age groups, with smooth walking or running motions**.
 - Added **walker control interface**.This interface supports:
   - Selecting the pedestrian type to generate
   - Specifying where pedestrians are generated
@@ -37,9 +37,9 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 - Built on UE5.
 - 3 scene types:
-  - Coffee -- One-to-one modeling in a Coffee
-  - Restaurant -- One-to-one modeling in a restaurant
-  - Nursing Room -- One-to-one modeling in a Nursing Room
+  - Coffee -- Modelled on a 1:1 ratio to a Coffee
+  - Restaurant -- Modelled on a 1:1 ratio to a restaurant
+  - Nursing Room -- Modelled on a 1:1 ratio to a Nursing Room
 - We handcrafted **2,165 classes of models** at a 1:1 ratio to real-life scenarios in order to construct these three scenes. These three scenes were ultimately constructed from a total of **4,230 models**.
 - We selected **129 representative classes** from the models built and supported **navigation testing**.
 - With **real light and shadow characteristics**
@@ -52,11 +52,13 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 <details>
 <summary>To-Do List</summary>
- 
-- Develop and make **more scenes**.
-- Provide **more classes of generative objects**.
+
+ - Provide **more classes of generative objects**.
+- **10+ scenes** are under construction and will be updated successively in the future.
+- Generate more high-quality instruction-ground truth pairs for the newly constructed scenes.
 - Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
 - Adding **more interactive properties to objects in the environment**, such as a coffee machine that can be controlled to make coffee.
+- **Construct complex tasks involving combined navigation and grasping.**
 </details>
 
 ## Overview
