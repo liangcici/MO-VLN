@@ -9,7 +9,7 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 #### 8/17/2023
 
- We have released **version 1.1** of the MO-VLN benchmark simulator.
+ We have released [**version 1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB) of the MO-VLN benchmark simulator.
 
 - Added **walker control interface**.
 - Added many different states of pedestrians, including **different gender, different skin colors, and different ages of 50 walkers with smooth walking or running movements**
@@ -25,7 +25,7 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 #### 6/18/2023
 
- We have released **version 1.0** of the MO-VLN benchmark simulator.
+ We have released [**version 1.0**](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ) of the MO-VLN benchmark simulator.
 
 - Built on UE5.
 - 3 scene types:
