@@ -9,21 +9,25 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 
 <details>
-<summary>8/17/2023</summary>
+<summary>🚀🚀8/17/2023</summary>
  
  We have released [**version 1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
 
-- Added **walker control interface**.
-- Added many different states of pedestrians, including **different gender, different skin colors, and different ages of 50 walkers with smooth walking or running movements**
-
+- Support for **grabbing and navigation tasks**.
+- Added many different states of pedestrians, including **different gender, different skin colors, and different ages of 50 pedestrians with smooth walking or running movements**
+- Added **walker control interface**.This interface supports:
+  - Selecting the pedestrian type to generate
+  - Specifying where pedestrians are generated
+  - Setting whether they move freely
+  - Controlling the speed of their movement
 - **Added 1k+ instructions** to our four tasks.
+- We modeled an **additional 954 classes of models** to construct the indoor scene.
 - Two **new scenes have been added**, bringing the total to five:
   - Coffee
   - Restaurant
   - Nursing Room
   - **Home scene** -- A home suite consisting of a living room, kitchen, dining room, and multiple bedrooms
   - **Separate tables** -- Multiple tables can provide a large and efficient grasping parallel training
-- Support for **grabbing and navigation tasks**.
 </details>
 
 <details>
@@ -36,9 +40,9 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
   - Coffee -- One-to-one modeling in a Coffee
   - Restaurant -- One-to-one modeling in a restaurant
   - Nursing Room -- One-to-one modeling in a Nursing Room
-- Support for navigation tasks.
+- We handcrafted **2,165 classes of models** at a 1:1 ratio to real-life scenarios in order to construct these three scenes. These three scenes were ultimately constructed from a total of **4,230 models**.
+- We selected **129 representative classes** from the models built and supported **navigation testing**.
 - With **real light and shadow characteristics**
-- Support **129 classes** for navigation testing
 - Support instruction tasks with **four tasks**: 
   - goal-conditioned navigation given a specific object category (e.g., "fork"); 
   - goal-conditioned navigation given simple instructions (e.g., "Search for and move towards a tennis ball"); 
