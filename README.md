@@ -3,6 +3,8 @@
 [![Static Badge](https://img.shields.io/badge/arXiv-2306.10322-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
 [![Benchmark Page](https://img.shields.io/badge/Benchmark-Page-blue)](https://mligg23.github.io/MO-VLN-Site/index.html)
 [![Simulator Documentation](https://img.shields.io/badge/Simulator-Documentation-green)](https://mligg23.github.io/MO-VLN-Site/Simulation%20Environment%20API.html#interface-methods)
+[![Download Datasets](https://img.shields.io/badge/Download-Datasets-yellow)](https://drive.google.com/drive/folders/1H-spdTGmgBMj132qEUf6IGIwshktJ8zG?usp=sharing)
+[![Static Badge](https://img.shields.io/badge/Download-Simulator-cyan)](https://drive.google.com/drive/folders/1zbywYhxFCbSnSy4vDGaEieX_nlVhbhyl?usp=sharing)
 
 
 This repository is the official PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
