@@ -65,16 +65,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
   - finding abstract objects based on high-level instruction (e.g., "I am thirsty").
 </details>
 
-<details>
-<summary>To-Do List</summary>
 
- - Provide **more classes of generative objects**.
-- **10+ scenes** are under construction and will be updated successively in the future.
-- Generate more high-quality instruction-ground truth pairs for the newly constructed scenes.
-- Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
-- Adding **more interactive properties to objects in the environment**, such as a coffee machine that can be controlled to make coffee.
-- **Construct complex tasks involving combined navigation and grasping.**
-</details>
 
 ## Overview
 MO-VLN provides four tasks: 1) goal-conditioned navigation given a specific object category (e.g., "fork"); 2) goal-conditioned navigation given simple instructions (e.g., "Search for and move towards a tennis ball"); 3) step-by-step instruction following; 4) finding abstract object based on high-level instruction (e.g., "I am thirsty"). The earlier version of our simulator covers three high-quality scenes: cafe, restaurant, and nursing house.
@@ -123,6 +114,15 @@ python zero_shot_eval.py --sem_seg_model_type glip --map_id 3
 
 ## Related Projects
 - The Semantic Mapping module is based on [SemExp](https://github.com/devendrachaplot/Object-Goal-Navigation).
+
+
+## To-Do List
+[] Provide **more classes of generative objects**.
+[] **10+ scenes** are under construction and will be updated successively in the future.
+[] Generate more high-quality instruction-ground truth pairs for the newly constructed scenes.
+[] Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
+[] Adding **more interactive properties to objects in the environment**, such as a coffee machine that can be controlled to make coffee.
+[] **Construct complex tasks involving combined navigation and grasping.**
 
 
 ## Citation
