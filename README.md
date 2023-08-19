@@ -4,6 +4,7 @@
 [![Benchmark Page](https://img.shields.io/badge/Benchmark-Page-blue)](https://mligg23.github.io/MO-VLN-Site/index.html)
 [![Simulator Documentation](https://img.shields.io/badge/Simulator-Documentation-green)](https://mligg23.github.io/MO-VLN-Site/Simulation%20Environment%20API.html#interface-methods)
 
+
 This repository is the official PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
 
 [MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2306.10322)
