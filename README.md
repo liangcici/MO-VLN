@@ -117,12 +117,12 @@ python zero_shot_eval.py --sem_seg_model_type glip --map_id 3
 
 
 ## To-Do List
-[] Provide **more classes of generative objects**.
-[] **10+ scenes** are under construction and will be updated successively in the future.
-[] Generate more high-quality instruction-ground truth pairs for the newly constructed scenes.
-[] Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
-[] Adding **more interactive properties to objects in the environment**, such as a coffee machine that can be controlled to make coffee.
-[] **Construct complex tasks involving combined navigation and grasping.**
+- [ ] Provide **more classes of generative objects**.
+- [ ] **10+ scenes** are under construction and will be updated successively in the future.
+- [ ] Generate more high-quality instruction-ground truth pairs for the newly constructed scenes.
+- [ ] Continue to update the simulator's **physics engine effects** to achieve more **realistic dexterous hand-grabbing effects**
+- [ ] Adding **more interactive properties to objects in the environment**, such as a coffee machine that can be controlled to make coffee.
+- [ ] **Construct complex tasks involving combined navigation and grasping.**
 
 
 ## Citation
