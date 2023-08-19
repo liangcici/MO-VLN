@@ -9,15 +9,15 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 
 
 <details>
-<summary>🚀🚀8/17/2023</summary>
+<summary>🚀🚀[8/17/2023]v0.2.0: More assets!2 new scenes,50 new walkers,954 new objects,1k+ new instructions</summary>
  
- We have released [**version 1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
+ We have released [**version 0.1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Support for **grabbing and navigation tasks**.
-- Added many different pedestrian states, including **50 unique pedestrians across gender, skin color, and age groups, with smooth walking or running motions**.
+- Added many different walker states, including **50 unique walkers across gender, skin color, and age groups, with smooth walking or running motions**.
 - Added **walker control interface**.This interface supports:
-  - Selecting the pedestrian type to generate
-  - Specifying where pedestrians are generated
+  - Selecting the walker type to generate
+  - Specifying where walkers are generated
   - Setting whether they move freely
   - Controlling the speed of their movement
 - **Added 1k+ instructions** to our four tasks.
@@ -31,9 +31,9 @@ Project website: https://mligg23.github.io/MO-VLN-Site/
 </details>
 
 <details>
-<summary>6/18/2023</summary>
+<summary>[6/18/2023]v0.1.0: 3 scenes,2165 objects, real light and shadow characteristics</summary>
  
- We have released [**version 1.0**](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ?usp=drive_link) of the MO-VLN benchmark simulator.
+ We have released [**version 0.1.0**](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Built on UE5.
 - 3 scene types:
@@ -85,7 +85,7 @@ cd MO-VLN/
 pip install -r requirements.txt
 ```
 
-### Setting up dataset
+### Setting up the dataset
 - Downloading original datasets from [here](https://drive.google.com/drive/folders/1khtQ9zRfWQX0WtsMWq3NkRNMvjH0JiZi).
 
 - Generate data for ObjectNav (goal-conditioned navigation given a specific object category).
