@@ -117,8 +117,8 @@ python zero_shot_eval.py --sem_seg_model_type glip --map_id 3
 
 
 ## To-Do List
-- [ ] Added **more walker states**.
-- [ ] Added **walker control interface**.
+- [x] Added **more walker states**.
+- [x] Added **walker control interface**.
 - [ ] Provide **more classes of generative objects**.
 - [ ] **Construct complex tasks involving combined navigation and grasping.**
 - [ ] **10+ scenes** are under construction and will be updated successively in the future.
