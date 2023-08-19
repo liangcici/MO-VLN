@@ -2,6 +2,7 @@
 
 [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
 [![Benchmark Page](https://img.shields.io/badge/Benchmark-Page-blue)](https://mligg23.github.io/MO-VLN-Site/index.html)
+[![Simulator Documentation](https://img.shields.io/badge/Simulator-Documentation-green)](https://mligg23.github.io/MO-VLN-Site/Simulation%20Environment%20API.html#interface-methods)
 
 This repository is the official PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
 
@@ -53,7 +54,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
   - Restaurant -- Modelled on a 1:1 ratio to a restaurant
   - Nursing Room -- Modelled on a 1:1 ratio to a Nursing Room
 - We handcrafted **2,165 classes of models** at a 1:1 ratio to real-life scenarios in order to construct these three scenes. These three scenes were ultimately constructed from a total of **4,230 models**.
-- We selected **129 representative classes** from the models built and supported **navigation testing**.
+- We selected **129 representative classes** from the models built and supported **navigation testing**.Among them, 54 classes are fixed within the environment, while 73 classes support customization by users.
 - With **real light and shadow characteristics**
 - Support instruction tasks with **four tasks**: 
   - goal-conditioned navigation given a specific object category (e.g., "fork"); 
