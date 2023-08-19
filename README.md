@@ -1,8 +1,20 @@
-# MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation
+# MO-VLN
 
-This is a PyTorch implementation of the [paper](https://arxiv.org/abs/2306.10322).
+[![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
+[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://mligg23.github.io/MO-VLN-Site/index.html)
 
-Project website: https://mligg23.github.io/MO-VLN-Site/
+This is a PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
+
+[MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2306.10322)
+</br>
+Xiwen Liang*, 
+Liang Ma*, 
+Shanshan Guo, 
+Jianhua Han, 
+Hang Xu, 
+Shikui Ma, 
+Xiaodan Liang<sup>$\dagger$</sup>
+<p style="font-size: 0.8em; margin-top: -1em">*Equal contribution <sup>$\dagger$</sup>Corresponding Author</p>
 
 
 ### Update
