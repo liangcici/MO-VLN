@@ -31,7 +31,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
 
 - Support for **grabbing and navigation tasks**.
 - Added many different walker states, including **50 unique walkers across gender, skin color, and age groups, with smooth walking or running motions**.
-- Added **walker control interface**.This interface supports:
+- Added **walker control interface**. This interface supports:
   - Selecting the walker type to generate
   - Specifying where walkers are generated
   - Setting whether they move freely
@@ -57,8 +57,8 @@ Xiaodan Liang<sup>$\dagger$</sup>
   - Coffee -- Modelled on a 1:1 ratio to a Coffee
   - Restaurant -- Modelled on a 1:1 ratio to a restaurant
   - Nursing Room -- Modelled on a 1:1 ratio to a Nursing Room
-- We handcrafted **2,165 classes of models** at a 1:1 ratio to real-life scenarios in order to construct these three scenes. These three scenes were ultimately constructed from a total of **4,230 models**.
-- We selected **129 representative classes** from the models built and supported **navigation testing**.Among them, 54 classes are fixed within the environment, while 73 classes support customization by users.
+- We handcrafted **2,165 classes of models** at a 1:1 ratio to real-life scenarios to construct these three scenes. These three scenes were ultimately constructed from a total of **4,230 models**.
+- We selected **129 representative classes** from the models built and supported **navigation testing**. Among them, 54 classes are fixed within the environment, while 73 classes support customization by users.
 - With **real light and shadow characteristics**
 - Support instruction tasks with **four tasks**: 
   - goal-conditioned navigation given a specific object category (e.g., "fork"); 
