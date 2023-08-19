@@ -1,7 +1,7 @@
 # MO-VLN
 
 [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
-[![Project Page](https://img.shields.io/badge/Project-Website-green)](https://mligg23.github.io/MO-VLN-Site/index.html)
+[![Benchmark Page](https://img.shields.io/badge/Benchmark-Page-blue)](https://mligg23.github.io/MO-VLN-Site/index.html)
 
 This repository is the official PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
 
