@@ -1,6 +1,6 @@
 # MO-VLN
 
-[![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
+[![Static Badge](https://img.shields.io/badge/arXiv-2306.10322-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
 [![Benchmark Page](https://img.shields.io/badge/Benchmark-Page-blue)](https://mligg23.github.io/MO-VLN-Site/index.html)
 [![Simulator Documentation](https://img.shields.io/badge/Simulator-Documentation-green)](https://mligg23.github.io/MO-VLN-Site/Simulation%20Environment%20API.html#interface-methods)
 
