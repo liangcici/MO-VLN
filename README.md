@@ -23,7 +23,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
 <details>
 <summary>🚀🚀[8/17/2023]v0.2.0: More assets!2 new scenes,50 new walkers,954 new objects,1k+ new instructions</summary>
  
- We have released [**version 0.1.1**](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
+ We have released [![version](https://img.shields.io/badge/version-0.2.0-blue)](https://drive.google.com/drive/folders/1padFHXi9VrTfDR2_8UmxB8NyZf2NfiZB?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Support for **grabbing and navigation tasks**.
 - Added many different walker states, including **50 unique walkers across gender, skin color, and age groups, with smooth walking or running motions**.
@@ -45,7 +45,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
 <details>
 <summary>[6/18/2023]v0.1.0: 3 scenes,2165 objects, real light and shadow characteristics</summary>
  
- We have released [**version 0.1.0**](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ?usp=drive_link) of the MO-VLN benchmark simulator.
+ We have released [![version](https://img.shields.io/badge/version-0.1.0-blue)](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ?usp=drive_link) of the MO-VLN benchmark simulator.
 
 - Built on UE5.
 - 3 scene types:
