@@ -40,8 +40,9 @@ Xiaodan Liang<sup>$\dagger$</sup>
   - Coffee
   - Restaurant
   - Nursing Room
-  - **Home scene** -- A home suite consisting of a living room, kitchen, dining room, and multiple bedrooms
   - **Separate tables** -- Multiple tables can provide a large and efficient grasping parallel training
+  - **Home scene** -- A home suite consisting of a living room, kitchen, dining room, and multiple bedrooms
+ ![scene](./docs/home.png)
 </details>
 
 <details>
