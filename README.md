@@ -48,7 +48,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
 </details>
 
 <details>
-<summary>[6/18/2023]v0.1.0: 3 scenes,2165 objects, real light and shadow characteristics</summary>
+<summary>[6/18/2023]v0.1.0: 3 scenes,2165 objects, real light, shadow characteristics, and support instruction tasks with four tasks</summary>
  
  We have released [![version](https://img.shields.io/badge/version-0.1.0-blue)](https://drive.google.com/drive/folders/1PijMeLZV6OUvB7HZIJph0bbsMfZWx9YJ?usp=drive_link) of the MO-VLN benchmark simulator.
 
