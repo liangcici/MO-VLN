@@ -3,7 +3,7 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2307.04725-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
 [![Project Page](https://img.shields.io/badge/Project-Website-green)](https://mligg23.github.io/MO-VLN-Site/index.html)
 
-This is a PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
+This repository is the official PyTorch implementation of [MO-VLN](https://arxiv.org/abs/2306.10322).
 
 [MO-VLN: A Multi-Task Benchmark for Open-set Zero-Shot Vision-and-Language Navigation](https://arxiv.org/abs/2306.10322)
 </br>
