@@ -39,7 +39,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
 - **Added 1k+ instructions** to our four tasks.
 - We modeled an **additional 954 classes of models** to construct the indoor scene.
 - Two **new scenes have been added**, bringing the total to five:
-  - Coffee
+  - Cafe
   - Restaurant
   - Nursing Room
   - **Separate tables** -- Multiple tables can provide a large and efficient grasping parallel training
@@ -54,7 +54,7 @@ Xiaodan Liang<sup>$\dagger$</sup>
 
 - Built on UE5.
 - 3 scene types:
-  - Coffee -- Modelled on a 1:1 ratio to a Coffee
+  - Cafe -- Modelled on a 1:1 ratio to a Cafe
   - Restaurant -- Modelled on a 1:1 ratio to a restaurant
   - Nursing Room -- Modelled on a 1:1 ratio to a Nursing Room
 - We handcrafted **2,165 classes of models** at a 1:1 ratio to real-life scenarios to construct these three scenes. These three scenes were ultimately constructed from a total of **4,230 models**.
