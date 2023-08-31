@@ -2,7 +2,7 @@
 
 [![Static Badge](https://img.shields.io/badge/arXiv-2306.10322-b31b1b.svg)](https://arxiv.org/abs/2306.10322)
 [![Benchmark Page](https://img.shields.io/badge/Benchmark-Page-blue)](https://mligg23.github.io/MO-VLN-Site/index.html)
-[![Static Badge](https://img.shields.io/badge/Documentation-black)](https://mligg23.github.io/MO-VLN-Site/Simulation%20Environment%20API.html#interface-methods)
+[![Static Badge](https://img.shields.io/badge/Documentation-black)](https://mo-vln-simulation-environment-document.readthedocs.io/en/latest/)
 [![Download Datasets](https://img.shields.io/badge/Datasets-Download-yellow)](https://drive.google.com/drive/folders/1H-spdTGmgBMj132qEUf6IGIwshktJ8zG?usp=sharing)
 [![Download-Simulator](https://img.shields.io/badge/Simulator-Download-cyan)](https://drive.google.com/drive/folders/1zbywYhxFCbSnSy4vDGaEieX_nlVhbhyl?usp=sharing)
 
